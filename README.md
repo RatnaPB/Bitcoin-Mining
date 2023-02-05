@@ -86,6 +86,7 @@ Program Results/ Outputs:
 - Number of logical processors: 4
 
 3. Output for 4 leading zeroes:
+![alt text](https://github.com/RatnaPB/Bitcoin-Mining-in-Erlang/blob/main/images/DOSP_4Zeroes.png?raw=true)
 - Coins mined by the server will have the prefix ‘vsanpurkar’ and coins mined by the client will have the prefix
 ‘r.bhairagond’.
 - CPU time – 25234 ms
@@ -95,6 +96,7 @@ Program Results/ Outputs:
 - There is a clear spike for all the cores during this bitcoin mining.
 
 4. Output for 5 leading zeroes:
+![alt text](https://github.com/RatnaPB/Bitcoin-Mining-in-Erlang/blob/main/images/DOSP_5Zeroes.png?raw=true)
 - Coins mined by the server will have the prefix ‘vsanpurkar’ and coins mined by the client will have the prefix
 ‘r.bhairagond’.
 - CPU time – 71375 ms
@@ -102,11 +104,13 @@ Program Results/ Outputs:
 - CPU Time/Real Time – 7.82
 
 5. Coins with the most zeroes (6):
+![alt text](https://github.com/RatnaPB/Bitcoin-Mining-in-Erlang/blob/main/images/DOSP_6Zeroes.png?raw=true)
 - CPU time – 71375 ms
 - Real Time – 9120 ms
 - CPU Time/Real Time – 7.82
 
 6. Coins with the most zeroes (7):
+![alt text](https://github.com/RatnaPB/Bitcoin-Mining-in-Erlang/blob/main/images/DOSP_7_Zeroes.png?raw=true)
 - CPU time – 2192234 ms
 - Real Time – 331180 ms
 - CPU Time/Real Time – 6.61
