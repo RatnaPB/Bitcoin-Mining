@@ -1,4 +1,4 @@
-# Bitcoin-Mining-in-Erlang
+# Bitcoin Mining (Erlang)
 
 Goal:
 Implement the actor model in Erlang functional language to solve the bitcoin mining problem and make the
